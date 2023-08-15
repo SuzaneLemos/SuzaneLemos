@@ -1,12 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=180&section=header&text=Olá!!+Seja+Bem+Vindo(a)&fontSize=30&fontColor=000000&animation=twinkling&fotAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=180&section=header&text=Olá!!+Seja+Bem+Vindo(a)&fontSize=30&fontColor=fff&animation=twinkling&fotAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Suzane+Lemos!;Eu+tenho+21+anos.;Eu+sou+de+Pedro+Leopoldo,+MG.;Eu+estudo+Ciências+da+Computação+na+PUC+MG.;Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Suzane+Lemos!;Eu+tenho+21+anos.;Eu+sou+de+Pedro+Leopoldo,+MG.;Eu+estudo+Ciências+da+Computação;Estudo+na+PUC+MG,+Belo+Horizonte.;Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
 ## Sobre mim:
 <img align="left" width="150" height="150" alt="Suzane Lemos" src="https://sdk.bitmoji.com/render/panel/20054902-215530854_23-s5-v1.png?transparent=1&palette=1&scale=2"/>
 
-Sou uma estudante de Ciências da Computação da PUC MG. Adoro jogar desde bem pequena e os jogos abriram um novo mundo para mim, eles me fizeram ir atrás da programação e desde então adquiri muito interesse na área. Atualmente gosto de front-end, mas já trabalhei muito com back-end na faculdade, por isso estou aberta para novas experiências, já que eu adoro ter sempre algo novo para descobrir.
-<br><br>O que será possível encontrar em meu GitHub?
+Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Comecei na área da tecnologia através dos jogos quando era bem pequena e eles abriram um novo mundo para mim. Desde então, fui atrás de descobrir sobre a programação e adquiri muito interesse por esta área tão importante para o desenvolvimento tecnológico para o mundo de hoje. Atualmente tenho mais interesse em front-end, mas já trabalhei muito com back-end na faculdade.
+
+O que será possível encontrar em meu GitHub?
 <br>Apenas alguns exercícios que fiz para algumas matérias que tenho na faculdade.
 
 ## Linguagens
