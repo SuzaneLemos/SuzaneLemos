@@ -28,7 +28,6 @@ O que será possível encontrar em meu GitHub?
 <a href="https://www.instagram.com/suhrvete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/suzane-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/suzane-lemos/" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
 <br><br>
  
