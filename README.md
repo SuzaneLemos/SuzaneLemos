@@ -5,10 +5,10 @@
 ## Sobre mim:
 <img align="left" width="150" height="150" alt="Suzane Lemos" src="https://sdk.bitmoji.com/render/panel/20054902-215530854_23-s5-v1.png?transparent=1&palette=1&scale=2"/>
 
-Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Comecei na área da tecnologia através dos jogos quando era bem pequena e eles abriram um novo mundo para mim. Desde então, fui atrás de descobrir sobre a programação e adquiri muito interesse por esta área tão importante para o desenvolvimento tecnológico para o mundo de hoje. Atualmente tenho mais interesse em front-end, mas já trabalhei muito com back-end na faculdade.
+Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Iniciei na área da tecnologia através dos jogos quando era bem pequena e eles abriram um novo mundo para mim. Desde então, comecei a estudar programação e adquiri muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje. Atualmente, tenho interesse em front-end, mas já trabalhei muito com back-end na faculdade.
 
 O que será possível encontrar em meu GitHub?
-<br>Apenas alguns exercícios que fiz para algumas matérias que tenho na faculdade.
+<br>Alguns exercícios que fiz para algumas matérias que tenho na faculdade.
 
 ## Linguagens
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
@@ -28,6 +28,7 @@ O que será possível encontrar em meu GitHub?
 <a href="https://www.instagram.com/suhrvete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/suzane-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/suzane-lemos/" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
 <br><br>
  
