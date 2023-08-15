@@ -10,7 +10,7 @@ Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Iniciei na
 O que será possível encontrar em meu GitHub?
 <br>Alguns exercícios que fiz para algumas matérias que tenho na faculdade.
 
-## Linguagens
+## Linguagens mais usadas:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <div style="display: inline_block"><br>
