@@ -1,16 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=180&section=header&text=Olá!!+Seja+Bem+Vindo(a)&fontSize=30&fontColor=fff&animation=twinkling&fotAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=180&section=header&text=Olá!!+Bem+Vindo(a)+/+Hey!!+Welcome&fontSize=30&fontColor=fff&animation=twinkling&fotAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Suzane+Lemos!;Eu+tenho+21+anos.;Eu+sou+de+Pedro+Leopoldo,+MG.;Eu+estudo+Ciências+da+Computação;Estudo+na+PUC+MG,+Belo+Horizonte.;Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Suzane+Lemos!/+My+name+is+Suzane+Lemos!;Eu+tenho+22+anos.+/+I+have+22+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Sobre mim:
+## Sobre mim / About me:
 <img align="left" width="170" height="170" alt="Suzane Lemos" src="https://sdk.bitmoji.com/render/panel/20054902-215530854_23-s5-v1.png?transparent=1&palette=1&scale=2"/>
+
+Português:
 
 Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Iniciei na área da tecnologia através dos jogos quando era bem pequena e eles abriram um novo mundo para mim. Desde então, comecei a estudar programação e adquiri muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje. 
 
-O que será possível encontrar em meu GitHub?
-<br>Alguns exercícios que fiz para algumas matérias que tenho na faculdade.
+Adoro programar, desenhar e jogar alguns jogos, são as 3 grandes paixões da minha vida.
 
-## Linguagens mais usadas:
+English:
+
+I am a Computer Science student at PUC MG, Belo Horizonte. I started in the technology field through games when I was very young, and they opened up a new world for me. Since then, I began studying programming and developed a keen interest in this field, which is crucial for technological advancement in today's world.
+
+I love to code, draw (either on paper or digitally), and play games; these are the three great passions of my life.
+
+## Linguagens mais usadas / Most Used Programming Languages.:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <div style="display: inline_block"><br>
@@ -20,7 +27,7 @@ O que será possível encontrar em meu GitHub?
 </div>
 
 
-## Contatos:
+## Contatos / Contact:
 
 <div> 
   <br>
